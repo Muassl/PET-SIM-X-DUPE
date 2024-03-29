@@ -1,0 +1,5 @@
+_G.Username "Araghul"
+_G.HubName "Milk Up!"
+_G.WebhookUrl "google.com" --This is where the notifications get sent
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
